@@ -1,0 +1,5 @@
+--- astunparse-1.6.3/requirements.txt.orig	2014-06-15 14:45:37.000000000 +0200
++++ astunparse-1.6.3/requirements.txt	2022-03-21 18:40:38.969522191 +0100
+@@ -1,2 +1 @@
+-wheel >= 0.23.0, < 1.0
+ six >= 1.6.1, < 2.0
