@@ -64,7 +64,7 @@ Pythona (w Demo/parser z Pythona 2 lub Tools/parser z Ptyhona 3).
 
 %prep
 %setup -q -n astunparse-%{version}
-%patch0 -p1
+%patch -P 0 -p1
 
 %build
 %if %{with python2}
