@@ -8,7 +8,7 @@ Summary:	An AST unparser for Python
 Summary(pl.UTF-8):	Odwrotność parsera AST dla Pythona
 Name:		python-astunparse
 Version:	1.6.3
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/astunparse/
